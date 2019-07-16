@@ -3,5 +3,6 @@ public class HelloJava {
 		System.out.println("Hello Java");
 		System.out.println("The code is pushing from GitHub");
 		System.out.println("The build is automatic at 10 minitus");
+		System.out.println("Source control hook");
 	}
 }
